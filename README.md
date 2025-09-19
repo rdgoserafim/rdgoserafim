@@ -20,4 +20,12 @@ I'm always open to discussing new projects and opportunities.
 *   **Email:** rodrigo.serafim@hermestecnologia.com
 *   **Company Website:** [https://hermestecnologia.com](https://hermestecnologia.com)
 
+
+
+# My Tech Stack
+
+## General Stats
+
+https://github-readme-stats.vercel.app/api?username=rdgoserafim&show_icons=true&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=rdgoserafim&layout=compact&theme=dark
 ---
