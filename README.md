@@ -26,7 +26,7 @@ I'm always open to discussing new projects and opportunities.
 
 ## General Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdgoserafim&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rdgoserafim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdgoserafim&layout=compact&theme=dark)
 
 ---
